@@ -1,0 +1,12 @@
+#fichiers inutiles de LaTeX
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.dvi
+*.bbl
+*.blg
+# Log file
+*.log
+*.bcf
+*.run.xml
